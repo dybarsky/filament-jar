@@ -6,4 +6,4 @@ PCB design and render:
 <image height="300" src="media/pcb.png"/> <image height="300" src="media/nets.png"/> <image height="300" src="media/render.png"/>
 
 Assembled in jars:
-<image height="300" src="media/jar1"/> <image height="300" src="media/jar2"/> <image height="300" src="media/jar3.png"/>
+<image height="300" src="media/jar1.png"/> <image height="300" src="media/jar2.png"/> <image height="300" src="media/jar3.png"/>
